@@ -1,6 +1,6 @@
-#Laravel Complete Authentication API with Sanctum
+# Laravel Complete Authentication API with Sanctum
 
-##Features:
+## Features:
 
 Registration,
 Login,
